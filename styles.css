@@ -84,9 +84,6 @@ li a{
 
 @media(min-width:768px){
 
-   .hero {
-        min-height: 60vh; /* Reduce hero height to 60% of viewport height */
-    } 
 
 }
 
